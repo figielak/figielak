@@ -15,9 +15,6 @@ I'm into statistics, data analysis and machine learning — and building small t
 - [**Homelab**](https://github.com/figielak/homelab) on a Raspberry Pi 4 — Docker, ad-blocking DNS, monitoring; stats pushed to the site every minute
 - Member of the Machine Learning Science Club at my university
 
-**Experience**
-- **BMM** (MIESIĄC–MIESIĄC ROK) — analysed hospital document workflows, configured approval paths in Bosflow, trained and supported staff after rollout
-
 **Currently learning**
 Statistics & probability · Machine learning · Data analysis in Python
 
