@@ -5,16 +5,24 @@
   </picture>
 </a>
 
-### Hi, I'm Krystian 👋
+### Hi, I'm Krystian
 
-Data Engineering and Analysis student at Rzeszów University of Technology.
-I've been programming since technical school — from small tools that people use every day
-to my own homelab. **Open to internships (Data / Backend).**
+2nd-year Data Engineering and Analysis student at Rzeszów University of Technology.
+I'm into statistics, data analysis and machine learning — and building small tools around them.
 
-- 🌐 [**figielak.dev**](https://figielak.dev/en/) — my site with a [live dashboard](https://figielak.dev/en/dashboard) ([source](https://github.com/figielak/figielak.dev))
-- 🏠 Homelab on a Raspberry Pi — containers, ad-blocking DNS, monitoring, stats pushed to the site every minute
-- 🧠 Member of the Machine Learning Science Club at my university
+**Projects**
+- [**figielak.dev**](https://figielak.dev/en/) — my site with a [live dashboard](https://figielak.dev/en/dashboard) ([source](https://github.com/figielak/figielak.dev))
+- [**Homelab**](https://github.com/figielak/homelab) on a Raspberry Pi 4 — Docker, ad-blocking DNS, monitoring; stats pushed to the site every minute
+- Member of the Machine Learning Science Club at my university
 
-**Python · FastAPI · Flask · Pandas · SQL · TypeScript · Astro · Docker · Linux · Cloud Run · Cloudflare · GitHub Actions**
+**Experience**
+- **BMM** (MIESIĄC–MIESIĄC ROK) — analysed hospital document workflows, configured approval paths in Bosflow, trained and supported staff after rollout
+
+**Currently learning**
+Statistics & probability · Machine learning · Data analysis in Python
+
+**Tools**
+Python · Pandas · SQL · Git · Docker · Linux
+Also used: TypeScript · Astro · GitHub Actions
 
 [Website](https://figielak.dev/en/) · [LinkedIn](https://www.linkedin.com/in/krystian-figiela/) · [CV](https://figielak.dev/cv/cv-en.pdf)
